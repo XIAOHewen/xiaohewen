@@ -1,6 +1,6 @@
 ---
-title: "联络我"
-layout: About me
+title: "联系我"
+layout: about
 ---
 
 一名中山大学南方学院文学与传媒系网路与新媒体专业的大一学生。
