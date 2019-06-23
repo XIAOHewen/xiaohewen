@@ -18,7 +18,7 @@ title: 肖贺文的个人主页
 email: 757542643@qq.com
 description: "肖贺文的个人主页，网页设计与制作期末项目"
 baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
-url: "https://gitee.com/Xhewen" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://Xhewen.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "肖贺文"
   twitter:
