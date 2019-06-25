@@ -1,4 +1,4 @@
 ---
 title: "SVG"
-layout: category
+layout: tags
 ---
