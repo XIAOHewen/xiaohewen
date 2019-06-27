@@ -25,10 +25,10 @@ categories:
 
 ### 下面放两张平面设计的作品，可以来看看，哪个是好的平面设计
 - 第一张
-![宣传海报对比之不好的设计](/assets/images/平面设计文章-什么才是好的平面设计-宣传海报对比之不好的设计.jpg)
+![宣传海报对比之不好的设计](https://gitee.com/Xhewen/xiaohewen/raw/gh-pages/assets/images/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%87%E7%AB%A0-%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E5%A5%BD%E7%9A%84%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1-%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94%E4%B9%8B%E4%B8%8D%E5%A5%BD%E7%9A%84%E8%AE%BE%E8%AE%A1.jpg)
 
 - 第二张
-![宣传海报对比之好的设计](/assets/images/平面设计文章-什么才是好的平面设计-宣传海报对比之好的设计.jpg)
+![宣传海报对比之好的设计](https://gitee.com/Xhewen/xiaohewen/raw/gh-pages/assets/images/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%87%E7%AB%A0-%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E5%A5%BD%E7%9A%84%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1-%E5%AE%A3%E4%BC%A0%E6%B5%B7%E6%8A%A5%E5%AF%B9%E6%AF%94%E4%B9%8B%E5%A5%BD%E7%9A%84%E8%AE%BE%E8%AE%A1.jpg)
 
 - 通过上面两张平面设计的对比，我们可以得出，第二张的设计比第一张的设计要好。
 - 同样的文字内容，差不多的背景，为什么设计出来的两张平面作品会这么的不同？下面我们就来分析一下原因。
