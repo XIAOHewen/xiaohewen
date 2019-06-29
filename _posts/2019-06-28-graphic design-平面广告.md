@@ -14,6 +14,7 @@ categories:
 - 广告主的诉求点。平面设计的好坏除了灵感之外，更重要的是是否准确地将诉求点表达出来，是否符合商业的需要。
 - 广告设计的优秀与否对广告视觉传达信息的准确起着关键的作用，是广告活动中不可缺少的重要环节使广告策划的深化和视觉化表现。广告的终极目的在于追求广告效果，而广告效果的优劣，关键在于广告设计的成败。现代广告设计的任务是根据企业营销目标和广告战略的要求，通过引人入胜的艺术表现，清晰准确的传递商品或服务的信息，树立有助于销售的品牌形象与企业形象。
 #### 我的平面广告：
+- ![无镜青春](https://gitee.com/Xhewen/xiaohewen/raw/f74ee10872d34a8615cc67e42333cc729638121f/assets/images/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%87%E7%AB%A0-%E5%B9%B3%E9%9D%A2%E5%B9%BF%E5%91%8A-%E6%97%A0%E9%95%9C%E9%9D%92%E6%98%A5.jpg)
 - ![独白1](https://gitee.com/Xhewen/xiaohewen/raw/gh-pages/assets/images/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%87%E7%AB%A0-%E5%B9%B3%E9%9D%A2%E5%B9%BF%E5%91%8A-%E7%8B%AC%E7%99%BD1.jpg)
 - ![独白1](https://gitee.com/Xhewen/xiaohewen/raw/gh-pages/assets/images/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%87%E7%AB%A0-%E5%B9%B3%E9%9D%A2%E5%B9%BF%E5%91%8A-%E7%8B%AC%E7%99%BD2.jpg)
-- ![无镜青春](https://gitee.com/Xhewen/xiaohewen/raw/f74ee10872d34a8615cc67e42333cc729638121f/assets/images/%E5%B9%B3%E9%9D%A2%E8%AE%BE%E8%AE%A1%E6%96%87%E7%AB%A0-%E5%B9%B3%E9%9D%A2%E5%B9%BF%E5%91%8A-%E6%97%A0%E9%95%9C%E9%9D%92%E6%98%A5.jpg)
+
