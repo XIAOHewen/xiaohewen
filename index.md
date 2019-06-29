@@ -1,6 +1,6 @@
 ---
 layout: home
-image: assets/images/banner.jpg
+image: assets/images/首页banner.jpg
 ---
 <style>
 header.intro {
